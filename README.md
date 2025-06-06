@@ -13,7 +13,7 @@ This is a personal portfolio website showcasing my work as a musician, developer
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/DebdootManna/debdootmanna.github.io.git
+    git clone https://github.com/DebdootManna/First-Portfolio.git
     ```
 2. Open `index.html` in a browser to view the website.
 
